@@ -4,6 +4,8 @@ Kriptolojiye Giriş proje ödevi kapsamında, RC5 algoritması ile şifreleme ve
 
 ## Projeye Genel Bakış
 
+**ÖNEMLİ:** Proje Visual Studio 2019'da yazılmıştır. Windows Form Application projesidir. .NET Framework 4.8 versiyonu kullanılmaktadır.
+
 Proje ayağa kaldırıldığında ilk açılacak ana sayfa aşağıdaki gibidir:
 
 ![Project Demo 1](https://i.hizliresim.com/r7mlpf4.png)
