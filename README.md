@@ -30,10 +30,6 @@ Sol kısımda "RC5 Hakkında" ve "Sifrele ve Coz" isimli iki adet menü bulunmak
 
 ![Project Demo 8](https://i.hizliresim.com/k4bu9cp.png)
 
-```bash
-pip install foobar
-```
-
 ## RC5Algorithm.cs
 
 RC5 algoritma prosedürlerini içeren dosya.
